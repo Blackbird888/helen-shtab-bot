@@ -1,0 +1,3 @@
+# Day Trader skills write personal trading data here (portfolio, orders, config with SEC name/email)
+trader/
+__pycache__/

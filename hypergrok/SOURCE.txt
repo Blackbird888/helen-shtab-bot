@@ -1,0 +1,3 @@
+HyperGrok Trading Desk v1.7.1 (commit 82bc645899b9581a693463b59553aa1329e021c4)
+from https://github.com/galleonlabs/hypergrok-trading-desk, MIT, copied unchanged.
+Skills are in ../.claude/skills (desk-*, hyperliquid-*, hypergrok-bootstrap), roles in ../.claude/agents.

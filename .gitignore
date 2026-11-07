@@ -1,3 +1,6 @@
 # Day Trader skills write personal trading data here (portfolio, orders, config with SEC name/email)
 trader/
 __pycache__/
+
+# HyperGrok desk working files (account address, proposals, journal)
+trading-desk/
